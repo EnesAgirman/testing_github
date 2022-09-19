@@ -3,3 +3,5 @@ i am trying to understand how github works
 la la la la la la
 i am editing this file
 this is the edited version of the original demo.txt file
+
+now this is me editing the file for the second time and I am trying to understand what branches are so i an planning to create a new branch for this commit and see what happens
